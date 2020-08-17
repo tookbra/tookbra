@@ -1,7 +1,7 @@
 ### Hi 👋 I'm [Tookbra!](https://tookbra.org), a Full Stack Developer
 <br/>
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/3o7aCZVnVV2efQgIko/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/3o7aCZVnVV2efQgIko/giphy.gif"  width="500"/>
 
 ### 关于
 - 🚀 当前我正在研究前后端分离[CAS](https://en.wikipedia.org/wiki/Central_Authentication_Service)解决方案以及用户中台的DDD落地架构
