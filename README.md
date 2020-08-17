@@ -1,11 +1,16 @@
-### Hi 👋 
+### Hi 👋 I'm [Tookbra!](https://tookbra.org), a Full Stack Developer
+<br/>
 
-## 🔥开源项目
-- [`reksai`](https://github.com/tookbra/reksai)分布式磁力爬虫    
-- [`nanny_print_sunmi`](https://github.com/tookbra/nanny_print_sunmi)商米PDA打印flutter组件    -
-- [`nanny_sunmi_scan`](https://github.com/tookbra/nanny_sunmi_scan)商米PDA扫描flutter组件    
+### 关于
+- 🚀 当前我正在研究前后端分离[cas](https://en.wikipedia.org/wiki/Central_Authentication_Service)解决方案以及用户中台的DDD落地架构
+- 💬 联系我[Tookbra](mailto:tookbra@gmail.com)
+
+### 🔥开源项目
+- [`reksai`](https://github.com/tookbra/reksai) 分布式磁力爬虫    
+- [`nanny_print_sunmi`](https://github.com/tookbra/nanny_print_sunmi) 商米PDA打印flutter组件    -
+- [`nanny_sunmi_scan`](https://github.com/tookbra/nanny_sunmi_scan) 商米PDA扫描flutter组件    
   
-## Languages and Tools
+### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
@@ -13,6 +18,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
