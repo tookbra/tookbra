@@ -1,9 +1,9 @@
 ### Hi 👋 
 
- ## 🔥开源项目
- [`reksai`](https://github.com/tookbra/reksai)分布式磁力爬虫    
- [`nanny_print_sunmi`](https://github.com/tookbra/nanny_print_sunmi)商米PDA打印flutter组件    
- [`nanny_sunmi_scan`](https://github.com/tookbra/nanny_sunmi_scan)商米PDA扫描flutter组件    
+## 🔥开源项目
+- [`reksai`](https://github.com/tookbra/reksai)分布式磁力爬虫    
+- [`nanny_print_sunmi`](https://github.com/tookbra/nanny_print_sunmi)商米PDA打印flutter组件    -
+- [`nanny_sunmi_scan`](https://github.com/tookbra/nanny_sunmi_scan)商米PDA扫描flutter组件    
   
 ## Languages and Tools
 
